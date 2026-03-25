@@ -376,7 +376,7 @@ class Run {
 
 
 		System.out.println("***-----Welcome To Brts Portal-----*** \nHere Some Advantages of Our Services.... \n \nTotal No. of Electric Buses Oerated :150 \nFuel saving per day (In Liters):13349.50 \nGHG emission reduction(CO2e per day in Kg):15503.40 \n");
-        //while (true) {
+        while (true) {
 			int count = 0;
 			for (int i = 0; i < UserDatabase.users.length; i++) {
 				if (UserDatabase.users[i] != null) {
@@ -445,6 +445,6 @@ class Run {
                 System.out.println("Invalid input! Please enter a number.");
                 sc.nextLine();
             }
-        //}
+        }
     }
 }
