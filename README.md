@@ -46,8 +46,9 @@ This system simulates a basic BRTS (Bus Rapid Transit System) where users can:
 ---
 ## 👥 Team Members
 - Om Chavda
-- [Teammate Name 1]
-- [Teammate Name 2]
+- Jay Kanzariya
+- Mansi Bhola
+- Dhvani Mehta
 
 ## 📍 Author
 Om Chavda
