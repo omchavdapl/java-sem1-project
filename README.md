@@ -44,6 +44,10 @@ This system simulates a basic BRTS (Bus Rapid Transit System) where users can:
 - Manage their bookings
 
 ---
+## 👥 Team Members
+- Om Chavda
+- [Teammate Name 1]
+- [Teammate Name 2]
 
 ## 📍 Author
 Om Chavda
